@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  address: MyString
+  building_structure: MyString
+  leasing_company: MyString
+  description: MyString
+  pets_allowed: false
+  phone_number: MyString
+  year_built: 1
+
+two:
+  address: MyString
+  building_structure: MyString
+  leasing_company: MyString
+  description: MyString
+  pets_allowed: false
+  phone_number: MyString
+  year_built: 1
