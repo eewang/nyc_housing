@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  price: 1
+  broker_fee: 1
+  apartment_id: MyString
+  removal: 2013-07-31
+  posted: 2013-07-31
+  availability: 2013-07-31
+
+two:
+  price: 1
+  broker_fee: 1
+  apartment_id: MyString
+  removal: 2013-07-31
+  posted: 2013-07-31
+  availability: 2013-07-31
